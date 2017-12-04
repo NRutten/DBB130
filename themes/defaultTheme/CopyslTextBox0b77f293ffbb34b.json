@@ -1,0 +1,119 @@
+{
+  "android": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "242324ff",
+    "font_name": "sans-serif",
+    "font_size": 150,
+    "isForked": true,
+    "text_shadow": {
+      "br": 0,
+      "color": "000000",
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "background_color": "ffe656ff",
+  "bg_type": "one",
+  "border_color": "ffffff00",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 5,
+  "desktopweb": {
+    "font_color": "000000ff",
+    "font_size": 638,
+    "isForked": true
+  },
+  "fontSizeInPx": false,
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 126,
+  "ipad": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "242324ff",
+    "font_size": 150,
+    "isForked": true
+  },
+  "iphone": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "242324ff",
+    "font_size": 150,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "000000ff",
+    "font_size": 638,
+    "isForked": true
+  },
+  "kuid": "s91e514aebf34fea8c6194651c7a1c47",
+  "spaan": {
+    "font_color": "000000ff",
+    "font_size": 227,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "font_color": "000000ff",
+    "font_size": 213,
+    "isForked": true
+  },
+  "spabb": {
+    "font_color": "000000ff",
+    "font_size": 262,
+    "isForked": true
+  },
+  "spaip": {
+    "font_color": "000000ff",
+    "font_size": 283,
+    "isForked": true
+  },
+  "spaipad": {
+    "font_color": "000000ff",
+    "font_size": 200,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "font_color": "000000ff",
+    "font_size": 200,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "font_color": "000000ff",
+    "font_size": 283,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "242324ff",
+    "font_size": 150,
+    "isForked": true,
+    "text_shadow": {
+      "br": 0,
+      "color": "000000",
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "wType": "TextField",
+  "windows8": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "000000ff",
+    "font_size": 249,
+    "isForked": true
+  },
+  "winphone8": {
+    "border_color": "ffffff00",
+    "border_type": 0,
+    "font_color": "000000ff",
+    "font_size": 340,
+    "isForked": true
+  }
+}

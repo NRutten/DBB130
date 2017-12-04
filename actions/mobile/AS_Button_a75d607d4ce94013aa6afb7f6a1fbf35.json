@@ -1,0 +1,24 @@
+{
+    "AS_Button_a75d607d4ce94013aa6afb7f6a1fbf35": {
+        "id": "AS_Button_a75d607d4ce94013aa6afb7f6a1fbf35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyForm1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb224454924c44f6aaca9a0f2c27d10c"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

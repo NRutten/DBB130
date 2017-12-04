@@ -1,0 +1,24 @@
+{
+    "AS_Form_c44878b44fba423f9071583289c039ae": {
+        "id": "AS_Form_c44878b44fba423f9071583289c039ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyForm1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e104d5e5b9b44905a3a66c5ae07bade3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__be0d634a8fec47219144b32625d0b672",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "CopyForm1.this.view.Text1.setFocus(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_adaa894f7dd34c6da9ab472105d74859": {
+        "id": "AS_Button_adaa894f7dd34c6da9ab472105d74859",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b54d18a9367b48cabb1d764ba7b33bb2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___i63d67a284bd447b8eb60f71e7e1b913",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "propertyName": null,
+            "propertyValue": null,
+            "itemKUID": false,
+            "isSkinProperty": false,
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
